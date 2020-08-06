@@ -5,7 +5,7 @@ clean and user-friendly experiences.Actively ready to join in a great
 lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.
 
 ### Languages and Tools:
-
+<hr/>
 <img align="left" style="padding:10px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" style="padding:10px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" style="padding:10px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,7 +20,7 @@ lively team of a good start-up to adapt me in any situation and environment with
 <br/>
 
 ### Connect with me:
-
+<hr/>
 <img align="left" style="padding:10px" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"><a href="https://shreedharbhat98.github.io/"/></img>
 
 <img align="left" style="padding:10px" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"><a href="https://twitter.com/shree_r_bhat"/></img>
