@@ -24,8 +24,10 @@ lively team of a good start-up to adapt me in any situation and environment with
 <a href="https://shreedharbhat98.github.io/">
 <img align="left" style="padding:15px" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 </a>
-
-<img align="left" style="padding:15px" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"><a href="https://twitter.com/shree_r_bhat"/></img>
-<img align="left" style="padding:15px" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"><a href="https://www.linkedin.com/in/shreedhar-bhat-34bb89139/"/></img>
+<a href="https://twitter.com/shree_r_bhat">
+<img align="left" style="padding:15px" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/shreedhar-bhat-34bb89139/">
+<img align="left" style="padding:15px" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
 </div>
 
