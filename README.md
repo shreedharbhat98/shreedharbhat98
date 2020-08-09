@@ -1,6 +1,6 @@
 # Hi, I'm Shreedhar  🖐
 
- I'm a frontend developer focuses on crafting
+ I'm a Full Stack Developer focuses on crafting
 clean and user-friendly experiences.Actively ready to join in a great
 lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.
 
