@@ -1,9 +1,7 @@
 # Hi, I'm Shreedhar  🖐
 
  I'm a Full Stack Developer who focuses on crafting
-clean and user-friendly experiences.Actively ready to join in a great
-lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.
-
+clean and user-friendly experiences.
 ### Languages and Tools:
 <div style="padding-left:20px">
 <img align="left" style="padding:15px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
