@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreedhar Bhat
 
-🚀 Frontend Engineer | 🧠 Open Source Contributor | 💡 UI/UX Enthusiast  
+🚀 Fullstack Engineer | 🧠 Open Source Contributor | 💡 UI/UX Enthusiast  
 📍 Bangalore, India
 
 ---
@@ -9,7 +9,7 @@ I'm a passionate frontend engineer with 4+ years of experience building fast, ac
 
 ### 🛠️ Tech Stack
 - **Frontend**: React, Next.js, Angular, Redux, Tailwind CSS, MUI, Styled Components  
-- **Backend**: Node.js, Express.js, NestJS  
+- **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - **Tools**: Git, Webpack, Vite, Docker, Postman  
 - **Testing**: Jest, React Testing Library, Cypress  
 - **Databases**: MongoDB, PostgreSQL  
