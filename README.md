@@ -27,6 +27,11 @@ I'm a passionate frontend engineer with 4+ years of experience building fast, ac
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6520](https://github.com/facebook/docusaurus/issues/6520#issuecomment-2888416080) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. 🗣 Commented on [#11138](https://github.com/facebook/docusaurus/pull/11138#issuecomment-2882999052) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. 🗣 Commented on [#11138](https://github.com/facebook/docusaurus/pull/11138#issuecomment-2874948925) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. 🗣 Commented on [#11138](https://github.com/facebook/docusaurus/pull/11138#issuecomment-2874779428) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+5. 🗣 Commented on [#11138](https://github.com/facebook/docusaurus/pull/11138#issuecomment-2861169743) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--END_SECTION:activity-->
 
 
