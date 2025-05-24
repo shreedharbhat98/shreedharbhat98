@@ -25,6 +25,11 @@ I'm a passionate frontend engineer with 4+ years of experience building fast, ac
 
 ---
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ### 📬 Let's Connect
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/shreedharbhat-dev/)  
 - 💻 [GitHub](https://github.com/shreedharbhat98)  
