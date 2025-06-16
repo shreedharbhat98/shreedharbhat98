@@ -39,7 +39,7 @@ I'm a passionate frontend engineer with 4+ years of experience building fast, ac
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/shreedharbhat-dev/)  
 - 💻 [GitHub](https://github.com/shreedharbhat98)  
 - 🛠️ [GitLab](https://gitlab.com/shridharbhat1998)  
-- 📫 Email: shridharbhat1998@gmail.com
+- 📫 Email: shreedharbhat.dev@gmail.com
 
 ---
 
