@@ -27,9 +27,9 @@ I'm a passionate frontend engineer with 4+ years of experience building fast, ac
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6042](https://github.com/recharts/recharts/issues/6042#issuecomment-3144975623) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 🗣 Commented on [#6163](https://github.com/recharts/recharts/pull/6163#issuecomment-3144951910) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 🗣 Commented on [#6165](https://github.com/recharts/recharts/pull/6165#issuecomment-3144579716) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🗣 Commented on [#6172](https://github.com/recharts/recharts/pull/6172#issuecomment-3146159954) in [recharts/recharts](https://github.com/recharts/recharts)
+2. 🗣 Commented on [#5500](https://github.com/recharts/recharts/issues/5500#issuecomment-3146158495) in [recharts/recharts](https://github.com/recharts/recharts)
+3. 🗣 Commented on [#6172](https://github.com/recharts/recharts/pull/6172#issuecomment-3146156014) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 ### 📬 Let's Connect
