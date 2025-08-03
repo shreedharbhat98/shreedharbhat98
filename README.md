@@ -5,7 +5,7 @@
 
 ---
 
-I'm a passionate frontend engineer with 4+ years of experience building fast, accessible, and scalable web applications using **React**, **Next.js**, **TypeScript**, and **Node.js**. I thrive in solving complex UI challenges, optimizing performance, and building delightful user experiences.
+I'm a passionate fllstack engineer with 4+ years of experience building fast, accessible, and scalable web applications using **React**, **Next.js**, **TypeScript**, and **Node.js**. I thrive in solving complex UI challenges, optimizing performance, and building delightful user experiences.
 
 ### 🛠️ Tech Stack
 - **Frontend**: React, Next.js, Angular, Redux, Tailwind CSS, MUI, Styled Components  
