@@ -20,7 +20,9 @@ I'm a passionate fllstack engineer with 4+ years of experience building fast, ac
 ### 🌟 Open Source Contributions
 - 🏅 **GitLab Hero** – [Profile](https://gitlab.com/shridharbhat1998)  
   > 100+ MRs across GitLab CE, UI polish, performance tweaks, accessibility fixes  
-- 🧭 Contributed to [**Docusaurus**](https://github.com/facebook/docusaurus) – Meta’s open-source documentation framework  
+- 🧭 Contributed to [**Docusaurus**](https://github.com/facebook/docusaurus) – Meta’s open-source documentation framework (61.1K ⭐)
+- 🧭 Contributed to [**recharts**](https://github.com/recharts/recharts) - About
+Redefined chart library built with React and D3 (**~12.5M** weekly downloads)
 - 🛠️ Regular contributor to tools and libraries improving developer experience  
 
 ---
