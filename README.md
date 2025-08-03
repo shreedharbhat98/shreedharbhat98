@@ -27,9 +27,9 @@ I'm a passionate fllstack engineer with 4+ years of experience building fast, ac
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3955](https://github.com/recharts/recharts/issues/3955#issuecomment-3148527485) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 🗣 Commented on [#6173](https://github.com/recharts/recharts/pull/6173#issuecomment-3148524433) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 🗣 Commented on [#378](https://github.com/recharts/recharts.org/pull/378#issuecomment-3148393981) in [recharts/recharts.org](https://github.com/recharts/recharts.org)
+1. 🗣 Commented on [#6176](https://github.com/recharts/recharts/pull/6176#issuecomment-3148609195) in [recharts/recharts](https://github.com/recharts/recharts)
+2. 💪 Opened PR [#6176](https://github.com/recharts/recharts/pull/6176) in [recharts/recharts](https://github.com/recharts/recharts)
+3. 🗣 Commented on [#3955](https://github.com/recharts/recharts/issues/3955#issuecomment-3148527485) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 ### 📬 Let's Connect
