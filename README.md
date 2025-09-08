@@ -29,9 +29,9 @@ Redefined chart library built with React and D3 (**~12.5M** weekly downloads)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6259](https://github.com/recharts/recharts/issues/6259#issuecomment-3258543339) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 🗣 Commented on [#6263](https://github.com/recharts/recharts/pull/6263#issuecomment-3258478986) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 🗣 Commented on [#6263](https://github.com/recharts/recharts/pull/6263#issuecomment-3239346277) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🗣 Commented on [#6263](https://github.com/recharts/recharts/pull/6263#issuecomment-3239346277) in [recharts/recharts](https://github.com/recharts/recharts)
+2. 🗣 Commented on [#6263](https://github.com/recharts/recharts/pull/6263#issuecomment-3239242009) in [recharts/recharts](https://github.com/recharts/recharts)
+3. 💪 Opened PR [#6263](https://github.com/recharts/recharts/pull/6263) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 ### 📬 Let's Connect
