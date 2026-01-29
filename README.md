@@ -29,9 +29,9 @@ Redefined chart library built with React and D3 (**~12.5M** weekly downloads)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68828](https://github.com/metabase/metabase/pull/68828#issuecomment-3815660456) in [metabase/metabase](https://github.com/metabase/metabase)
-2. 🗣 Commented on [#68692](https://github.com/metabase/metabase/issues/68692#issuecomment-3815647962) in [metabase/metabase](https://github.com/metabase/metabase)
-3. 💪 Opened PR [#68828](https://github.com/metabase/metabase/pull/68828) in [metabase/metabase](https://github.com/metabase/metabase)
+1. 🗣 Commented on [#68829](https://github.com/metabase/metabase/pull/68829#issuecomment-3815989434) in [metabase/metabase](https://github.com/metabase/metabase)
+2. 🗣 Commented on [#68612](https://github.com/metabase/metabase/issues/68612#issuecomment-3815987377) in [metabase/metabase](https://github.com/metabase/metabase)
+3. 💪 Opened PR [#68829](https://github.com/metabase/metabase/pull/68829) in [metabase/metabase](https://github.com/metabase/metabase)
 <!--END_SECTION:activity-->
 
 ### 📬 Let's Connect
