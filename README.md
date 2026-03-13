@@ -38,7 +38,7 @@ Redefined chart library built with React and D3 (**~12.5M** weekly downloads)
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/shreedharbhat-dev/)  
 - 💻 [GitHub](https://github.com/shreedharbhat98)  
 - 🛠️ [GitLab](https://gitlab.com/shridharbhat1998)  
-- 📫 Email: shreedharbhat.dev@gmail.com
+- 📫 Email: shreedharbhat.engg@gmail.com
 
 ---
 
