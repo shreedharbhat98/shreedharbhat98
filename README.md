@@ -80,9 +80,9 @@ I contribute to projects used by millions of developers. Here's the work that sh
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6210](https://github.com/recharts/recharts/issues/6210#issuecomment-4344198242) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 🎉 Merged PR [#7285](https://github.com/recharts/recharts/pull/7285) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 🎉 Merged PR [#93](https://github.com/recharts/recharts-integ/pull/93) in [recharts/recharts-integ](https://github.com/recharts/recharts-integ)
+1. 🗣 Commented on [#7287](https://github.com/recharts/recharts/pull/7287#issuecomment-4350281162) in [recharts/recharts](https://github.com/recharts/recharts)
+2. 🗣 Commented on [#7287](https://github.com/recharts/recharts/pull/7287#issuecomment-4350083024) in [recharts/recharts](https://github.com/recharts/recharts)
+3. 💪 Opened PR [#7287](https://github.com/recharts/recharts/pull/7287) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 ---
