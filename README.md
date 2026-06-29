@@ -80,7 +80,7 @@ I contribute to projects used by millions of developers. Here's the work that sh
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#68828](https://github.com/metabase/metabase/pull/68828) in [metabase/metabase](https://github.com/metabase/metabase)
+1. 🎉 Merged PR [#7287](https://github.com/recharts/recharts/pull/7287) in [recharts/recharts](https://github.com/recharts/recharts)
 2. 🗣 Commented on [#7287](https://github.com/recharts/recharts/pull/7287#issuecomment-4350281162) in [recharts/recharts](https://github.com/recharts/recharts)
 3. 🗣 Commented on [#7287](https://github.com/recharts/recharts/pull/7287#issuecomment-4350083024) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
